@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Robotic Process Automation (RPA)**
 
-- 👨‍💻 All of my projects are available at [https://iroshansharma.me/](https://iroshansharma.me/)
+- 👨‍💻 All of my projects are available at [https://roshansharma.in/](https://roshansharma.in/)
 
 - 💬 Ask me about **Robotic Process Automation (RPA) and its applications in various industries. I can provide information on RPA tools, implementation strategies, and the impact of automation on business processes. If you have any specific questions or topics related to RPA that you'd like to explore, feel free to ask!**
 
 - 📫 How to reach me **iroshansharma01@gmail.com**
 
-- 📄 Know about my experiences [https://iroshansharma.me/](https://iroshansharma.me/)
+- 📄 Know about my experiences [https://roshansharma.in/](https://roshansharma.in/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
